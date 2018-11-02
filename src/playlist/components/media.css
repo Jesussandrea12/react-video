@@ -1,0 +1,11 @@
+.Media {
+    cursor: pointer;
+    margin: 1em;
+    display: inline-block;
+    max-width: 300px;
+    vertical-align: top;
+}
+
+.cover-image {
+    object-fit: cover;
+}
