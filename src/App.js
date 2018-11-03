@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import Playlist from './playlist/components/playlist';
 import data from './api.json';
+
+import Home from './pages/containers/home'
 
 class App extends Component {
   render() {
     return (
-        <Playlist data={data} />
+        <Home data={data} />
     );
   }
 }

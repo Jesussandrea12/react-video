@@ -1,10 +1,10 @@
-import React, { Component } from 'react'
+import React, { PureComponent } from 'react'
 import PropTypes from 'prop-types'
 
 import 'bulma';
 import './media.css';
 
-class Media extends Component {
+class Media extends PureComponent {
 	// constructor(props) {
 	// 	super(props)
 	// 	this.state = {
@@ -28,19 +28,23 @@ class Media extends Component {
 		const { title, author, cover } = this.props;
 
 		return (
-			<div className="Media card">
-				<div className="card-image">
-					<figure className="image is-3by3">
-						<img className="cover-image" src={cover} alt="Placeholder Pic" />
-					</figure>
-				</div>
-				<div className="card-content">
-					<div className="content">
-						<h4>{title}</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-						<p className="subtitle is-6">{author}</p>
+			<div className="column">
+			
+				<div className="Media card" onClick={ this.props.handleClick }>
+					<div className="card-image">
+						<figure className="image is-3by3">
+							<img className="cover-image" src={cover} alt="Placeholder Pic" />
+						</figure>
+					</div>
+					<div className="card-content">
+						<div className="content">
+							<h4>{title}</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							<p className="subtitle is-6">{author}</p>
+						</div>
 					</div>
 				</div>
+
 			</div>
 		)
 	}

@@ -3,13 +3,13 @@
     {
       "id": 1,
       "description": "Lo mejor de la semana",
-      "title": "Destacados",
+      "title": "Best of the Week",
 			"playlist": [
         {
           "title": "¿Qué es responsive Design?",
           "author": "Jesus Sandrea",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
@@ -17,7 +17,7 @@
           "title": "Cómo optimzar la carga de un website",
           "author": "Jesus Sandrea",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 2
         },
@@ -25,7 +25,7 @@
           "title": "Qué es Bitcoin",
           "author": "Jesus Sandrea",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
@@ -33,7 +33,7 @@
           "title": "Que pasó con HTML5",
           "author": "Jesus Sandrea",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
@@ -41,7 +41,7 @@
           "title": "Lo mejor de jesussandrea.com",
           "author": "Jesus Sandrea",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         }
@@ -50,13 +50,13 @@
     {
       "id": 2,
       "description": "Lo mejor para concentrarte",
-      "title": "Para programar",
+      "title": "Music",
       "playlist": [
         {
           "title": "One more time",
           "author": "Daft Punk",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
@@ -64,7 +64,7 @@
           "title": "Midnight City",
           "author": "M83",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         },
@@ -72,7 +72,7 @@
           "title": "Solar Sailer",
           "author": "Daft Punk",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         },
@@ -80,7 +80,7 @@
           "title": "The social network",
           "author": "The social network",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
@@ -88,56 +88,9 @@
           "title": "No vaya a ser",
           "author": "Pablo Alboran",
           "type": "video",
-          "cover": "https://source.unsplash.com/random",
+          "cover": "https://source.unsplash.com/random/1600x900",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "description": "Si no te queda de otra",
-      "title": "Regueton",
-      "playlist": [
-        {
-          "title": "Despacito",
-          "author": "Luis Fonsi",
-          "type": "video",
-          "cover": "https://source.unsplash.com/random",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "id": 1
-        },
-        {
-          "title": "Echame la culpa",
-          "author": "Luis fonsi",
-          "type": "video",
-          "cover": "https://source.unsplash.com/random",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "id": 3
-        },
-        {
-          "title": "Mi Gente",
-          "author": "J Bavil",
-          "type": "video",
-          "cover": "https://source.unsplash.com/random",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "id": 2
-        },
-        {
-          "title": "Felices los 4",
-          "author": "Maluma",
-          "type": "video",
-          "cover": "https://source.unsplash.com/random",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "id": 4
-        },
-        {
-          "title": "Me Rehúso",
-          "author": "Danny Ocean",
-          "type": "video",
-          "cover": "https://source.unsplash.com/random",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "id": 5
         }
       ]
     }
